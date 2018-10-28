@@ -8,5 +8,6 @@ target 'SPMasonryAutoCellHeight' do
   # Pods for SPMasonryAutoCellHeight
 
   pod 'Masonry'
+  pod 'SPMasonryAutoCellHeight', :git=>"https://github.com/TyroneSong/SPMasonryAutoCellHeight"
 
 end
